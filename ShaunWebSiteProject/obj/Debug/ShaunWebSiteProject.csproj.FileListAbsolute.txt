@@ -71,7 +71,6 @@ c:\users\oyi\documents\visual studio 2013\Projects\ShaunWebSiteProject\ShaunWebS
 c:\users\oyi\documents\visual studio 2013\Projects\ShaunWebSiteProject\ShaunWebSiteProject\bin\Microsoft.Owin.Security.Google.xml
 c:\users\oyi\documents\visual studio 2013\Projects\ShaunWebSiteProject\ShaunWebSiteProject\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\oyi\documents\visual studio 2013\Projects\ShaunWebSiteProject\ShaunWebSiteProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\oyi\documents\visual studio 2013\Projects\ShaunWebSiteProject\ShaunWebSiteProject\obj\Debug\ShaunWebSiteProject.csprojResolveAssemblyReference.cache
 c:\users\oyi\documents\visual studio 2013\Projects\ShaunWebSiteProject\ShaunWebSiteProject\obj\Debug\ApplicationInsights.config
 c:\users\oyi\documents\visual studio 2013\Projects\ShaunWebSiteProject\ShaunWebSiteProject\obj\Debug\ShaunWebSiteProject.dll
 c:\users\oyi\documents\visual studio 2013\Projects\ShaunWebSiteProject\ShaunWebSiteProject\obj\Debug\ShaunWebSiteProject.pdb
